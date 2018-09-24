@@ -1,0 +1,1 @@
+This is right, There's no problem with curly-braces matching and with scope.
